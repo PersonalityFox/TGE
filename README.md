@@ -1,6 +1,7 @@
 # TechBench Token Generation Event smart contract
 
 Smart contract was developed to cover TechBench's TGE event.
+
 You can research the rules and participate on [TGE portal][portal].
 
 # License
