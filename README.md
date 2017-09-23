@@ -5,7 +5,7 @@ Smart contract was developed to cover TechBench's TGE event.
 You can research the rules and participate on [TGE portal][portal].
 
 # License
-You are free to use our smart contract in your projects. We will soon also provide a complete tutorial video on how to do it.
+You are free to use our smart contract in your projects. We will also provide a [tutorial video][tutorial] on how to do it.
 
 # What is TechBench?
 
@@ -20,3 +20,4 @@ TechBench is aimed at different user categories:
 
 [portal]: <https://tge.techbench.me>
 [website]: <https://techbench.me>
+[tutorial]: <https://www.youtube.com/watch?v=URT1HPKIyEw>
