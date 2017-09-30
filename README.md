@@ -1,8 +1,8 @@
-# TechBench Token Generation Event smart contract
+# TechBench ICO smart contract
 
-Smart contract was developed to cover TechBench's TGE event.
+Smart contract was developed to cover TechBench's ICO event.
 
-You can research the rules and participate on [TGE portal][portal].
+You can research the rules and participate on [ICO portal][portal].
 
 # License
 You are free to use our smart contract in your projects. We also provide a [tutorial video][tutorial] on how to do it.
